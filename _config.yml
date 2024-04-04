@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: https://github.com/AnkushinDaniil/AnkushinDaniil.github.io
 incremental: false
 highlighter: rouge
 gist:
