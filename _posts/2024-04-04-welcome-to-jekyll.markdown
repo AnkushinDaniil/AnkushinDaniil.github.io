@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to my first blog!"
+title: "Welcome to my first post!"
 date: 2024-04-04 18:30:00 +0300
 categories: default
 ---
