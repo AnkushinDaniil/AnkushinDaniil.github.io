@@ -7,7 +7,7 @@ categories: default
 
 ### Hello!
 
-This is my first post on my blog. It's worth saying that I'm not a native speaker, so reasonable criticism is acceptable. My name is Daniil and I am a software developer at the beginning of my professional career.
+This is my first post on my blog. It's worth saying that I'm not a native speaker, so reasonable criticism is acceptable. My name is Daniil and I'm a software developer at the beginning of my professional career.
 
 At the moment I have a master's degree in light guide photonics and programmable electronics and a lot of experience in this field. Nevertheless, I decided to change my career path due to my passion for blockchain technologies, especially [Ethereum][ethereum].
 
