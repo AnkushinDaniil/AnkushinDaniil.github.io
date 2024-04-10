@@ -5,7 +5,7 @@ date: 2024-04-10 22:30:00 +0300
 categories: default
 ---
 
-Hey guys. Well, I'm writing to you from a gym I go to. I know that a lot of my soft developer friends and my colleagues don't visit a gym and of course that's their choice. Nevertheless, I want you to know that there is a very strong correlation between phisycal training and intellect. So, more phisycal activity means more intellectual power! It doesn't mean that you will get some knowledge with the gym, it means that it will be much easier to acquire new information and knowledge with a trained body. By the way, there are two important remarks.
+Hey guys. Well, I'm writing to you from a gym I go to. I know that a lot of my software developer friends and my colleagues don't visit a gym and of course that's their choice. Nevertheless, I want you to know that there is a very strong correlation between phisycal training and intellect. So, more phisycal activity means more intellectual power! It doesn't mean that you will get some knowledge with the gym, it means that it will be much easier to acquire new information and knowledge with a trained body. By the way, there are two important remarks.
 
 First, in the beginning, when a person's body is completely untrained, it doesn't matter what exersizes they would do, their ability to think better would grow, but when experience of training grow, strength exersizes would not give significant ptofit. Then, you probably already have it, it is necessary to do aerobic exercises for further progress.
 
